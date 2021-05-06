@@ -1,0 +1,2 @@
+rootProject.name = "Persistent Bottom Sheet"
+include ':app'
